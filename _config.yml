@@ -14,7 +14,7 @@ url: https://kateposener.github.io/
 harmony:
   name: ShipShape
   # Little description about your site
-  description: collaborative experiences in building quality software
+  description: collaborative endeavours in building quality software
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
@@ -23,7 +23,7 @@ harmony:
   author: # Author details
     name: Kate Posener
     email: kposener@gmail.com
-    url: http://kateposener.github.io
+    url: https://kateposener.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key:

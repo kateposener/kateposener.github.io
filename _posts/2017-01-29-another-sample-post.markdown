@@ -53,5 +53,3 @@ Curabitur cursus magna eu sem cursus
 Pellentesque habitant morbi tristique senectus
 : Curabitur malesuada lacus ac gravida porttitor
 : Duis sodales feugiat lorem et mollis. 
-
-Want me to suggest something? Please [Send me a request](https://github.com/web-create/harmony/issues/new)
