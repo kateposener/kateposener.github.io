@@ -35,7 +35,7 @@ harmony:
   show_disclaimer: false
 
 #Social engagement
-mailchimp: true
+mailchimp: false
 
 # Conversion / Build settings 
 markdown:    kramdown
