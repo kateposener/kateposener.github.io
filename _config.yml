@@ -12,7 +12,7 @@ url: https://kateposener.github.io
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: ShipShape
+  name: 
   # Little description about your site
   description: collaborative endeavours in building quality software
   # 'meta_description:' Write an awesome description for your new site here.
@@ -33,6 +33,9 @@ harmony:
     twitter: KatePosener
   # Toggle disclaimer in footer
   show_disclaimer: false
+
+#Social engagement
+mailchimp: true
 
 # Conversion / Build settings 
 markdown:    kramdown
